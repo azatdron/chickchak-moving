@@ -1,4 +1,2 @@
-CHIK-CHAK MOVING v1.6 — полностью переписанный сайт.
-Откройте index.html в браузере. Для GitHub Pages загрузите index.html и папку assets вместе в корень репозитория.
-Новые изображения обрезаны из предоставленных макетов. Для более качественных фото замените файлы в assets оригиналами без надписей.
-Контакт WhatsApp: 053-531-8195. Кнопка отзывов ведёт на предоставленную ссылку Facebook (проверьте, что это нужная страница отзывов).
+CHIK-CHAK MOVING v1.7
+Upload index.html and the entire assets folder to the root of GitHub repository chickchak-moving. Replace older files.
