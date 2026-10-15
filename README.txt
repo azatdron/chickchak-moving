@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v2.2 — compact mobile proportions matched to reference. Open index.html in Safari. Existing functionality and content retained.
+CHIK-CHAK MOVING v2.3 — мобильная переработка. Откройте index.html в браузере. Интернет нужен для WhatsApp.
