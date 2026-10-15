@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v3.3. Replace index.html in GitHub root. All photos embedded. Validation: cities, items, date. Hebrew date labels translated. Uniform item images.
+CHIK-CHAK MOVING v3.5. Исправлены изображения карточек и возвращена посудомоечная машина (временный тариф 250 ₪). Замените index.html в корне GitHub.
