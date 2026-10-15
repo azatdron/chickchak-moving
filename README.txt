@@ -1,1 +1,4 @@
-CHIK-CHAK MOVING v1.5 — corrected mobile layout, cleaned image crops, fixed hero and gallery. Upload all files together to GitHub Pages. WhatsApp calculator and RU/HE preserved. Social links can be set in CONFIG in index.html.
+CHIK-CHAK MOVING v1.6 — полностью переписанный сайт.
+Откройте index.html в браузере. Для GitHub Pages загрузите index.html и папку assets вместе в корень репозитория.
+Новые изображения обрезаны из предоставленных макетов. Для более качественных фото замените файлы в assets оригиналами без надписей.
+Контакт WhatsApp: 053-531-8195. Кнопка отзывов ведёт на предоставленную ссылку Facebook (проверьте, что это нужная страница отзывов).
