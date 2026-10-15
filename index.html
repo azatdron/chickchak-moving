@@ -245,7 +245,7 @@ lb.querySelector('.lb-close').onclick=close;lb.querySelector('.lb-prev').onclick
 })();
 </script><style id="v40-photo-only-two-up">
 /* Only item photo carousel: two large, uniform cards. No other site changes. */
-#items.items{gap:10px!important;scroll-snap-type:none!important;overscroll-behavior-x:contain!important;padding:7px 2px 12px!important}
+#items.items{gap:10px!important;scroll-behavior:auto!important;scroll-snap-type:none!important;overscroll-behavior-x:contain!important;padding:7px 2px 12px!important}
 #items .item{flex:0 0 calc((100% - 10px)/2)!important;width:calc((100% - 10px)/2)!important;min-width:0!important;height:242px!important;min-height:242px!important;padding:10px 8px!important;border-radius:15px!important;scroll-snap-align:none!important}
 #items .item-icon{height:155px!important;min-height:155px!important;width:100%!important;background:white!important}
 #items .item-icon img{height:100%!important;max-height:155px!important;width:100%!important;max-width:100%!important;object-fit:contain!important;transform:none!important}
@@ -255,21 +255,27 @@ lb.querySelector('.lb-close').onclick=close;lb.querySelector('.lb-prev').onclick
 @media(min-width:650px){#items .item{height:290px!important;min-height:290px!important}#items .item-icon{height:195px!important;min-height:195px!important}#items .item-icon img{max-height:195px!important}}
 </style>
 <script id="v40-photo-only-loop">
+/* Stable touch-only carousel: no scroll event recentering, no animation. */
 (function(){
  const list=document.getElementById('items');
  if(!list)return;
- let adjusting=false;
- list.addEventListener('scroll',function(){
-  if(adjusting || !list.children.length)return;
-  const segment=list.scrollWidth/3;
-  if(!segment || list.scrollWidth<=list.clientWidth)return;
-  if(list.scrollLeft<segment*0.55 || list.scrollLeft>segment*1.45){
-   adjusting=true;
-   const target=list.scrollLeft+(list.scrollLeft<segment*0.55?segment:-segment);
-   list.scrollLeft=target;
-   requestAnimationFrame(()=>{adjusting=false});
-  }
- },{passive:true});
+ let touchStarted=false, settleTimer=null;
+ function recenter(){
+  if(touchStarted || list.children.length<3)return;
+  const n=Math.floor(list.children.length/3);
+  if(!n || !list.children[n] || !list.children[2*n])return;
+  const segment=list.children[2*n].offsetLeft-list.children[n].offsetLeft;
+  if(segment<=0)return;
+  const x=list.scrollLeft;
+  // Only jump after the finger is lifted and momentum has settled.
+  if(x<segment*0.5)list.scrollLeft=x+segment;
+  else if(x>segment*1.5)list.scrollLeft=x-segment;
+ }
+ function schedule(){clearTimeout(settleTimer);settleTimer=setTimeout(recenter,450)}
+ list.addEventListener('touchstart',()=>{touchStarted=true;clearTimeout(settleTimer)},{passive:true});
+ list.addEventListener('touchend',()=>{touchStarted=false;schedule()},{passive:true});
+ list.addEventListener('touchcancel',()=>{touchStarted=false;schedule()},{passive:true});
+ list.addEventListener('scrollend',schedule,{passive:true});
 })();
 </script></body></html>
 

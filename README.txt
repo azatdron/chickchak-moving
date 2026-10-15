@@ -1,1 +1,1 @@
-Based on user-supplied working v4.0. Changes ONLY to item cards: two large photos visible and endless horizontal carousel. No Instagram/Facebook, WhatsApp, date, pricing or other edits. Replace index.html in GitHub Pages.
+CHIK-CHAK MOVING v4.0 — две большие фотографии. Исправлено дрожание: убран пересчёт позиции при каждом событии scroll; возврат в середину выполняется только после завершения прокрутки. Остальной сайт без изменений.
