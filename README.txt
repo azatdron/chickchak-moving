@@ -1,1 +1,1 @@
-v2.6 based on v2.5. Removed ladder and fan, iOS focus zoom fix, gallery lightbox unified dimensions, hero text layout. Missing real item photos use Unsplash URLs with embedded offline fallback. v2.4 stable archive remains unchanged.
+CHIK-CHAK MOVING v2.7: 3 unique equal-size gallery images, enlarged CHIK-CHAK logo with smaller MOVING. Other site logic unchanged. Real photographs for dryer, TV, boxes etc. require verified image files; existing external photo links may fail. Stable v2.4 unchanged.
