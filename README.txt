@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v3.0 — compact date and extras; approximate route distance derived from selected cities. Replace index.html in GitHub Pages repository. Unknown cities: road cost marked for clarification. Keep backup of v2.9.
+CHIK-CHAK MOVING v3.1. Replace index.html in GitHub root. Removed search and alphabet filters. Replaced dryer, TV, boxes and microwave photos with white-background product images. All other v3.0 features retained.
