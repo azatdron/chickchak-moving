@@ -1,1 +1,1 @@
-v3.9: Исправлена проверка 24 городов, которые присутствовали в выпадающем списке, но отсутствовали в таблице расчёта расстояния. Замените только index.html в корне GitHub. Координаты ориентировочные; расстояние оценочное.
+CHIK-CHAK MOVING v4.0: fixed city selection and disabled past months/days. Replace index.html in GitHub repository root.
