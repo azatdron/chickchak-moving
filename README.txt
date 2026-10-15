@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v4.0: fixed city selection and disabled past months/days. Replace index.html in GitHub repository root.
+Based on user-supplied working v4.0. Changes ONLY to item cards: two large photos visible and endless horizontal carousel. No Instagram/Facebook, WhatsApp, date, pricing or other edits. Replace index.html in GitHub Pages.
