@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v2.7: 3 unique equal-size gallery images, enlarged CHIK-CHAK logo with smaller MOVING. Other site logic unchanged. Real photographs for dryer, TV, boxes etc. require verified image files; existing external photo links may fail. Stable v2.4 unchanged.
+CHIK-CHAK MOVING v2.8 — вариант 1. На базе тестовой v2.7. Новая композиция верхнего баннера, скрыты стрелки верхнего слайдера и карточек вещей. Листание пальцем и функции сайта сохранены. Стабильная v2.4 не изменена.
