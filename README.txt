@@ -1,2 +1,1 @@
-CHIK-CHAK MOVING v1.7
-Upload index.html and the entire assets folder to the root of GitHub repository chickchak-moving. Replace older files.
+CHIK-CHAK MOVING v1.8 — исправлены только изображения. Загрузите один файл index.html в корень GitHub репозитория вместо старого. Папка assets больше не требуется. Остальной сайт сохранён без изменений.
