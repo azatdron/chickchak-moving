@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v3.5. Исправлены изображения карточек и возвращена посудомоечная машина (временный тариф 250 ₪). Замените index.html в корне GitHub.
+CHIK-CHAK MOVING v3.6: corrected photo object scale and replaced dishwasher picture. Replace index.html in GitHub repository root.
