@@ -1,4 +1,1 @@
-CHIK-CHAK MOVING v2.1 — mobile redesign
-Откройте index.html в браузере. Все изображения встроены в HTML, интернет для просмотра не нужен.
-Изменено: мобильные пропорции, компактный калькулятор, горизонтальные карточки, поиск на русском и иврите, стрелки прокрутки.
-Отправка заявки требует подключения к интернету и WhatsApp. Стоимости товаров — исходные диапазоны, итог подтверждает менеджер.
+CHIK-CHAK MOVING v2.2 — compact mobile proportions matched to reference. Open index.html in Safari. Existing functionality and content retained.
