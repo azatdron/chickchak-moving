@@ -1,2 +1,1 @@
-CHIK-CHAK MOVING v2.5
-Based on approved v2.4. City suggestions, gallery lightbox, WhatsApp button and hero text changes.
+v2.6 based on v2.5. Removed ladder and fan, iOS focus zoom fix, gallery lightbox unified dimensions, hero text layout. Missing real item photos use Unsplash URLs with embedded offline fallback. v2.4 stable archive remains unchanged.
