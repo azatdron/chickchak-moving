@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v2.3 — мобильная переработка. Откройте index.html в браузере. Интернет нужен для WhatsApp.
+CHIK-CHAK MOVING v2.4. Open index.html in Safari. Price data preserved in calculator; cards show photos without prices. Slideshow loops with crossfade.
