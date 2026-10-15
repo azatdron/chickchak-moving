@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v2.9 — на основе v2.8. Дата переезда, дополнительные вещи, скрытые фиксированные цены, этажи и два варианта стоимости в WhatsApp. Для дороги клиент может указать приблизительный пробег; без него доплата за дорогу обозначается «уточнить», чтобы не показывать выдуманную сумму. Загрузите index.html в корень репозитория GitHub Pages.
+CHIK-CHAK MOVING v3.0 — compact date and extras; approximate route distance derived from selected cities. Replace index.html in GitHub Pages repository. Unknown cities: road cost marked for clarification. Keep backup of v2.9.
