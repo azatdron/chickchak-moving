@@ -1,3 +1,1 @@
-CHIK-CHAK MOVING v1.5
-Upload ALL files from this ZIP to the ROOT of your existing GitHub repository chickchak-moving. Replace index.html and existing images. GitHub Pages: main / (root). Do not upload ZIP itself.
-The dryer/TV/box graphics are clean vector illustrations, not photographs. Original gallery photos were cropped to remove embedded screenshot text.
+CHIK-CHAK MOVING v1.5 — corrected mobile layout, cleaned image crops, fixed hero and gallery. Upload all files together to GitHub Pages. WhatsApp calculator and RU/HE preserved. Social links can be set in CONFIG in index.html.
