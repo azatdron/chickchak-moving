@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v4.7 TEST. Upload test-v47.html to GitHub alongside index.html. Main site unchanged. Only HERO photos/layout updated. Five unique photographs, sources 1200x720 and 680x430; no false upscaling. Open https://azatdron.github.io/chickchak-moving/test-v47.html
+Тестовая версия v4.8. Загрузите test-v48.html в корень GitHub репозитория. Основной index.html не менять. Изменена только CSS-композиция верхней шапки. Фотографии слайдера взяты из v4.7 и не являются новыми фотографиями высокого разрешения.
