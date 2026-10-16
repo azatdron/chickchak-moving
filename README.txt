@@ -1,1 +1,1 @@
-CHIK-CHAK MOVING v4.0 — две большие фотографии. Исправлено дрожание: убран пересчёт позиции при каждом событии scroll; возврат в середину выполняется только после завершения прокрутки. Остальной сайт без изменений.
+CHIK-CHAK MOVING v4.3. Replace only index.html in GitHub Pages. Changes: 5 hero images, wide city fields, date day/month/year future-only, shared ride excludes road, larger product images. Preserve original v4.0 as backup.
