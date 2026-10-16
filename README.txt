@@ -1,1 +1,1 @@
-Upload test-v46.html to GitHub repository root, without replacing index.html. Preview: https://azatdron.github.io/chickchak-moving/test-v46.html
+CHIK-CHAK MOVING v4.7 TEST. Upload test-v47.html to GitHub alongside index.html. Main site unchanged. Only HERO photos/layout updated. Five unique photographs, sources 1200x720 and 680x430; no false upscaling. Open https://azatdron.github.io/chickchak-moving/test-v47.html
