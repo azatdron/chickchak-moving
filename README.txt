@@ -1,1 +1,1 @@
-Тест v4.11: только перемещение блока «Переезды по всему Израилю» и строк с галочками вниз влево. Загрузите test-v411.html рядом с index.html.
+v4.12: Only CHIK-CHAK MOVING lettering enlarged. Based on v4.11. Upload test-v412.html alongside index.html.
